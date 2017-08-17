@@ -1,0 +1,17 @@
+D:\Dropbox\Cartelle_Condivise\Universita\Magistrale\1 anno\Intelligenza Artificiale\Progetto\Software\Analizzatore\Analizzatore\bin\Debug\Analizzatore.exe.config
+D:\Dropbox\Cartelle_Condivise\Universita\Magistrale\1 anno\Intelligenza Artificiale\Progetto\Software\Analizzatore\Analizzatore\bin\Debug\Analizzatore.exe
+D:\Dropbox\Cartelle_Condivise\Universita\Magistrale\1 anno\Intelligenza Artificiale\Progetto\Software\Analizzatore\Analizzatore\bin\Debug\Analizzatore.pdb
+D:\Dropbox\Cartelle_Condivise\Universita\Magistrale\1 anno\Intelligenza Artificiale\Progetto\Software\Analizzatore\Analizzatore\obj\Debug\Analizzatore.csprojResolveAssemblyReference.cache
+D:\Dropbox\Cartelle_Condivise\Universita\Magistrale\1 anno\Intelligenza Artificiale\Progetto\Software\Analizzatore\Analizzatore\obj\Debug\Analizzatore.Form1.resources
+D:\Dropbox\Cartelle_Condivise\Universita\Magistrale\1 anno\Intelligenza Artificiale\Progetto\Software\Analizzatore\Analizzatore\obj\Debug\Analizzatore.Properties.Resources.resources
+D:\Dropbox\Cartelle_Condivise\Universita\Magistrale\1 anno\Intelligenza Artificiale\Progetto\Software\Analizzatore\Analizzatore\obj\Debug\Analizzatore.csproj.GenerateResource.Cache
+D:\Dropbox\Cartelle_Condivise\Universita\Magistrale\1 anno\Intelligenza Artificiale\Progetto\Software\Analizzatore\Analizzatore\obj\Debug\Analizzatore.exe
+D:\Dropbox\Cartelle_Condivise\Universita\Magistrale\1 anno\Intelligenza Artificiale\Progetto\Software\Analizzatore\Analizzatore\obj\Debug\Analizzatore.pdb
+H:\Dropbox\Cartelle_Condivise\Universita\Magistrale\1 anno\Intelligenza Artificiale\Progetto\Software\Analizzatore\Analizzatore\bin\Debug\Analizzatore.exe.config
+H:\Dropbox\Cartelle_Condivise\Universita\Magistrale\1 anno\Intelligenza Artificiale\Progetto\Software\Analizzatore\Analizzatore\bin\Debug\Analizzatore.exe
+H:\Dropbox\Cartelle_Condivise\Universita\Magistrale\1 anno\Intelligenza Artificiale\Progetto\Software\Analizzatore\Analizzatore\bin\Debug\Analizzatore.pdb
+H:\Dropbox\Cartelle_Condivise\Universita\Magistrale\1 anno\Intelligenza Artificiale\Progetto\Software\Analizzatore\Analizzatore\obj\Debug\Analizzatore.Form1.resources
+H:\Dropbox\Cartelle_Condivise\Universita\Magistrale\1 anno\Intelligenza Artificiale\Progetto\Software\Analizzatore\Analizzatore\obj\Debug\Analizzatore.Properties.Resources.resources
+H:\Dropbox\Cartelle_Condivise\Universita\Magistrale\1 anno\Intelligenza Artificiale\Progetto\Software\Analizzatore\Analizzatore\obj\Debug\Analizzatore.csproj.GenerateResource.Cache
+H:\Dropbox\Cartelle_Condivise\Universita\Magistrale\1 anno\Intelligenza Artificiale\Progetto\Software\Analizzatore\Analizzatore\obj\Debug\Analizzatore.exe
+H:\Dropbox\Cartelle_Condivise\Universita\Magistrale\1 anno\Intelligenza Artificiale\Progetto\Software\Analizzatore\Analizzatore\obj\Debug\Analizzatore.pdb
