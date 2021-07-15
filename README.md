@@ -5,3 +5,4 @@ La sua funzione è il predire le conoscenze che si svilupperanno in futuro (Link
 Se ad esempio si analizza un grafo sociale estratto da una rete di amicizie di Facebook la predizione data dal software riporterà le nuove amicizie che si svilupperanno nel futuro.
 <br/>
 <img width="882" height="600" src="image.png?raw=true">
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](YOUR_EMAIL_CODE)
